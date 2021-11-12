@@ -13,9 +13,3 @@ body{
     border: 1px solid #ddd;
     margin: 0 auto;
 }
-#container h1{
-    font-size: 20px;
-}
-#post h1,p{
-    font-size: 35px;
-}
